@@ -1,2 +1,2 @@
-# Archi_project_2
- Website for architecture comapny project2
+# Archi_project_1
+ Website for architecture comapny project1
